@@ -1,4 +1,5 @@
 - I'm Thomas Scott, a recent graduate of an MSc Software Development at Queens University Belfast
+- I have recently started work for Sentireal as a Mixed Reality Developer, specialising in Unity.
 - I am well versed in Java, C#, Javascript, PHP, SQL, HTML, CSS
 - Particularly interested in VR, having developed a prototype VR piano training app in Unity as my dissertaion project.
 - Enjoy developing interactive experiences in general, including games and web design
